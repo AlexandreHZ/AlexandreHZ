@@ -12,6 +12,5 @@ Geralmente posto alguns trabalhos acadêmicos e projetos pessoais meus por aqui.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexandreHZ&layout=compact&langs_count=8&theme=dark"/>
 <div style="display: inline_block"><br>
 </div>
-
 <!--
 **AlexandreHZ/AlexandreHZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
