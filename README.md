@@ -1,8 +1,9 @@
 ![teste banner git](https://user-images.githubusercontent.com/75258095/117895195-3f30d180-b294-11eb-87df-62b5db7f22cb.png)
 
-### Opaa, beleza? 👋
+### What's up? 👋
 
-Geralmente posto alguns trabalhos acadêmicos e projetos pessoais meus por aqui. Se quiser dar uma olhada, fique à vontade ^^
+This is where I usually store my personal and academic projects. Basically all my professional experience is at private repos on gitlab.
+Give it a little look if you will!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlexandreHZ)](https://github.com/AlexandreHZ)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-zanella-55293a204/)](https://www.linkedin.com/in/alexandre-zanella-55293a204/)
